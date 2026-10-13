@@ -1,0 +1,20 @@
+# Gradle / Android build artifacts
+.gradle/
+build/
+app/build/
+/local.properties
+captures/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Keystore / signing material — never commit
+*.jks
+*.keystore
+keystore.properties
+
+# Exported test logs (operator data)
+exports/
+*.apk

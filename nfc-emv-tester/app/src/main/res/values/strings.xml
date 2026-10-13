@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC EMV Tester</string>
+    <string name="hce_service_desc">NFC EMV input-handling test card</string>
+    <string name="aid_group_desc">EMV contactless test AIDs</string>
+
+    <string name="status_unarmed">UNARMED — select a field and payload, then Arm.</string>
+
+    <string name="label_field">Display field under test</string>
+    <string name="label_payload">Test payload</string>
+
+    <string name="btn_arm">Arm</string>
+    <string name="btn_disarm">Disarm</string>
+    <string name="btn_clear">Clear log</string>
+    <string name="btn_export">Export</string>
+
+    <string name="log_title">APDU log</string>
+</resources>
